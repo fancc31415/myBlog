@@ -223,4 +223,11 @@ export const friendsInfo: Friend[] = [
     tag: "喜欢游戏和游开",
     color: "pink",
   },
-];
+  {
+    avatar: "https://avatars.githubusercontent.com/u/105183037?s=400&u=9e892d7ce7867330178a45431e8843cda04827ae&v=4",
+    name: "fancc31415",
+    title: "喜欢pop子的工程师",
+    link: "https://github.com/fancc31415",
+    tag: "Learning front-end",
+    color: "blue,purple",
+  },];
